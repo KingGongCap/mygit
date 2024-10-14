@@ -72,6 +72,8 @@ push / pull
 
 [하루하루 스터디 노트](https://doit-fws.tistory.com/, "프런트앤드 개발 팀")
 
+
+![프로필 이미지](./1.png)
 # README 파일이란?
 
 이곳은 *저장소에 대한 설명*을 작성합니다.
